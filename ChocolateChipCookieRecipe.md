@@ -1,5 +1,7 @@
 # Chocolate Chip Cookie Recipe
 
+This also includes the special addition of peanut butter,
+
 ## Ingredients
 
 - 1/2 cup butter
@@ -8,6 +10,7 @@
 - 1/2 tsp baking powder
 - 3 TBSP water
 - 1 cup + 2 TBSP all-purpose flour
+- 1/2 tsp peanut butter
 
 ## Instructions
 
@@ -16,3 +19,4 @@
 3. Whisk together the cornstarch, baking powder, and water until smooth. Mix into the creamed batter.
 4. Stir in the flour then the chocolate chips until combined.
 5. Bake until just lightly browned on the edges and middle still looks undercooked.
+6. Eat! So yummy!
